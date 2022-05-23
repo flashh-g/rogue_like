@@ -1,2 +1,2 @@
 # rogue_like
-\ a small rougelike game
+<span style="color:blue">small rogue like game</span>.
