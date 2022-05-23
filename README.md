@@ -1,2 +1,2 @@
 # rogue_like
-<span style={ color: red } >small rogue like game</span>.
+..a small rogue like game..
