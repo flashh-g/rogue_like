@@ -1,0 +1,13 @@
+[package]
+name = "platform_test"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+specs = { version = "0.17.0", git = "https://github.com/amethyst/specs.git" }
+specs-derive = "0.4.1"
+rltk = { git = "https://github.com/thebracket/rltk_rs" }
+
+
