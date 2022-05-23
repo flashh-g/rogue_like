@@ -1,2 +1,2 @@
 # rogue_like
-/ a small rougelike game
+\ a small rougelike game
